@@ -42,3 +42,6 @@
 **Uso de `record` na remarcação.** Para remarcar, não é preciso receber todos os atributos de um `Agendamento`. Basta identificar qual atendimento mudar, e para isso bastam paciente, data e horário. O `AgendamentoRecord` reúne só esses três dados, o que evita passar parâmetros soltos (que podiam ser trocados de ordem) e deixa claro o que identifica um atendimento.
 
 **Conflito sem considerar a duração.** O conflito de horário considera apenas "mesmo profissional, mesma data e mesmo horário de início", sem olhar a duração. Isso deixa passar sobreposições parciais (por exemplo, 60 min às 9h e outro atendimento às 9h30). A escolha foi proposital: o código original já fazia assim, e a refatoração não deve mudar a saída do programa. Corrigir isso seria uma mudança de comportamento, então ficou como melhoria futura.
+
+## 4. Uso de ferramentas de IA
+Foi utilizada a ferramenta de IA Claude (Anthropic) para conferir e auxiliar na organização da documentação, para organizar o relatório em .md e o READEME no projeto.

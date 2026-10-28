@@ -52,4 +52,4 @@ A documentação é gerada na pasta `docs/`; abra `docs/index.html` no navegador
 
 ## Autoria
 
-[Seu nome] — [Disciplina / Turma] — [Professor(a)]
+CAIO DANTAS MARTINS, DAMIÃO FELIPE DE OLIVEIRA LIMA E LUCAS MATHEUS FERREIRA DA ROCHA — BOAS PRÁTICAS
