@@ -1,6 +1,6 @@
 # Relatório — Refatoração da Agenda da Clínica
 
-**Autor:** [Seu nome] — **Disciplina:** [Disciplina / Turma]
+**Autor:** LUCAS MATHEUS FERREIRA DA ROCHA, CAIO DANTAS MARTINS, DAMIÃO FELIPE DE OLIVEIRA — **Disciplina:** BOAS PRÁTICAS
 
 ## 1. Etapa 1 — Diagnóstico
 
